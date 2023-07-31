@@ -1,0 +1,31 @@
+/* Center all elements inside the body */
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+    margin: 10px; /* Remove default body margin */
+  }
+  
+  /* Center the <h1> element */
+  h1 {
+    text-align: center;
+  }
+  
+  /* Center the input, select, and button elements */
+  input[type="text"],
+  select,
+  button {
+    margin: 10px;
+  }
+  
+  /* Center the image and canvas elements */
+  img,
+  canvas {
+    display: block;
+    margin-left: 20%; /* Use 'auto' for horizontal margin to center the elements */
+    width: 60%
+   
+  }
+  
