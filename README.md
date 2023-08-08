@@ -1,6 +1,8 @@
 # Excavator webpage
 This is a webpage used to visualize the excavator detector made with `YOLOv8`. Users can upload images, getting feedback after a few seconds.
 
+---> [The demo page can be found here](https://kystverket-ai-kai.github.io/excavator-webpage/) <---
+
 
 ## Technical details
 ### Change model
